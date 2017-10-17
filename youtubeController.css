@@ -16,9 +16,10 @@ body{
     height:42px;
 }
 .youtubeImg{
-    height:42px;
+    height:32px;
     width:42px;
-    margin-left:25px
+    margin-left:25px;
+    margin-top: 6px;
 }
 .headerText{
     margin-bottom: 0px;

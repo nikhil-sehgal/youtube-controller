@@ -1,5 +1,5 @@
 //variables used
-var youtubeIconUrl = "https://www.youtube.com/yts/img/favicon_32-vfl8NGn4k.png";
+var youtubeIconUrl = "YT.png";
 var divHeaderTitle = "YouTube Controller";
 var notab = "Youtube is not open in any tab.";
 var noShow = "Nothing is playing in this tab.";
