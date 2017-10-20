@@ -25,8 +25,8 @@
 9. If youtube is paying on nay tab, then user now can play|pause, go to next song without going to youtbe tab.
 10. Enjoy!!!
 
-###Alternate Download
-####Download to google chrome from the below link.
+### Alternate Download
+#### Download to google chrome from the below link.
 
 ## Running Link on Google WebStore
 #### Youtube Contoller App
